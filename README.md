@@ -1,1 +1,1 @@
-This rep gathered all low level programming task
+This rep gathered all low level programming tasks
