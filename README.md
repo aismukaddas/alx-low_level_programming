@@ -1,1 +1,1 @@
-This rep gathered all low level programming tasks
+This is low level programming repository, coded by Abdullahi Ibrahim, ALX Software Engineering student.
